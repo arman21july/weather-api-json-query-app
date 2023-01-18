@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuakeReport</string>
+    <string name="near_the">Near The</string>
+    <string name="no_data">No Earthquakes Found</string>
+    <string name="no_internet">No Internet Connection</string>
+
+</resources>
